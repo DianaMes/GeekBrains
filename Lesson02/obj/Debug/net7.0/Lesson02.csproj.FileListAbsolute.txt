@@ -1,0 +1,14 @@
+C:\Users\mesny\OneDrive\Рабочий стол\GeekBrains\Lesson02\bin\Debug\net7.0\Lesson02.exe
+C:\Users\mesny\OneDrive\Рабочий стол\GeekBrains\Lesson02\bin\Debug\net7.0\Lesson02.deps.json
+C:\Users\mesny\OneDrive\Рабочий стол\GeekBrains\Lesson02\bin\Debug\net7.0\Lesson02.runtimeconfig.json
+C:\Users\mesny\OneDrive\Рабочий стол\GeekBrains\Lesson02\bin\Debug\net7.0\Lesson02.dll
+C:\Users\mesny\OneDrive\Рабочий стол\GeekBrains\Lesson02\bin\Debug\net7.0\Lesson02.pdb
+C:\Users\mesny\OneDrive\Рабочий стол\GeekBrains\Lesson02\obj\Debug\net7.0\Lesson02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mesny\OneDrive\Рабочий стол\GeekBrains\Lesson02\obj\Debug\net7.0\Lesson02.AssemblyInfoInputs.cache
+C:\Users\mesny\OneDrive\Рабочий стол\GeekBrains\Lesson02\obj\Debug\net7.0\Lesson02.AssemblyInfo.cs
+C:\Users\mesny\OneDrive\Рабочий стол\GeekBrains\Lesson02\obj\Debug\net7.0\Lesson02.csproj.CoreCompileInputs.cache
+C:\Users\mesny\OneDrive\Рабочий стол\GeekBrains\Lesson02\obj\Debug\net7.0\Lesson02.dll
+C:\Users\mesny\OneDrive\Рабочий стол\GeekBrains\Lesson02\obj\Debug\net7.0\refint\Lesson02.dll
+C:\Users\mesny\OneDrive\Рабочий стол\GeekBrains\Lesson02\obj\Debug\net7.0\Lesson02.pdb
+C:\Users\mesny\OneDrive\Рабочий стол\GeekBrains\Lesson02\obj\Debug\net7.0\Lesson02.genruntimeconfig.cache
+C:\Users\mesny\OneDrive\Рабочий стол\GeekBrains\Lesson02\obj\Debug\net7.0\ref\Lesson02.dll
